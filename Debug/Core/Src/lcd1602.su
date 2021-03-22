@@ -1,0 +1,4 @@
+lcd1602.c:7:6:lcd_init	24	static
+lcd1602.c:35:6:lcd_write	32	static
+lcd1602.c:51:6:lcd_display	24	static
+lcd1602.c:81:6:lcd_clear	24	static
